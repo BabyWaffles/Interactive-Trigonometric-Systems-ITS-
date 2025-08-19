@@ -2,3 +2,4 @@
 Created using ChatGPT because I am lazy and just want to get things done as soon as possible. :D
 So here is a direct link to the main source. [https://chatgpt.com/canvas/shared/68a47b5bfb288191973253d768471f47]
 Do not expect much from this since it is made in 2 hours so take it or leave it. I will not produce any useful code unless if it benefits only me.
+You can fork it however you like or see fit. I do not care since it only benefits me. If it benefits you then good for you.
